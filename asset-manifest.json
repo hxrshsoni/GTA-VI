@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GTA-VI/static/css/main.947a2774.css",
-    "main.js": "/GTA-VI/static/js/main.45eb8e6a.js",
+    "main.js": "/GTA-VI/static/js/main.df0a65eb.js",
     "static/js/453.96453769.chunk.js": "/GTA-VI/static/js/453.96453769.chunk.js",
     "static/media/remixicon.svg?t=1734404658139": "/GTA-VI/static/media/remixicon.df9902a6df13645438e1.svg",
     "static/media/remixicon.eot?t=1734404658139": "/GTA-VI/static/media/remixicon.29066d810a74e994be27.eot",
@@ -11,11 +11,11 @@
     "static/media/Pricedown Bl.otf": "/GTA-VI/static/media/Pricedown Bl.6e212bcb2d96be599534.otf",
     "index.html": "/GTA-VI/index.html",
     "main.947a2774.css.map": "/GTA-VI/static/css/main.947a2774.css.map",
-    "main.45eb8e6a.js.map": "/GTA-VI/static/js/main.45eb8e6a.js.map",
+    "main.df0a65eb.js.map": "/GTA-VI/static/js/main.df0a65eb.js.map",
     "453.96453769.chunk.js.map": "/GTA-VI/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.947a2774.css",
-    "static/js/main.45eb8e6a.js"
+    "static/js/main.df0a65eb.js"
   ]
 }
