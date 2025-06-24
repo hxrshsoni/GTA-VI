@@ -148,8 +148,8 @@ export default function App() {
               />
 
               <div className="text absolute top-0 left-1/2 -translate-x-1/2 flex flex-col gap-3">
-                <h1 className="text-7xl text-white -ml-40 ">Grand</h1>
-                <h1 className="text-7xl text-white  ml-20 ">Theft</h1>
+                <h1 className="text-7xl text-white -ml-40 ">Grandoo</h1>
+                <h1 className="text-7xl text-white  ml-20 ">Theftggg</h1>
                 <h1 className="text-7xl text-white  -ml-20">Auto</h1>
               </div>
 
